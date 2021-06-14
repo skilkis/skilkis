@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skilkis&theme=dark&show_icons=true&text_color=9F9F9F&title_color=9F9F9F&bg_color=00000000&layout=compact&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skilkis&theme=dark&show_icons=true&text_color=9F9F9F&title_color=9F9F9F&bg_color=00000000&layout=compact&hide_border=true)](https://github.com/skilkis)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skilkis&theme=dark&title_color=9F9F9F&bg_color=00000000&layout=compact&hide_border=true)](https://wakatime.com/@skilkis)
 
