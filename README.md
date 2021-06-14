@@ -1,4 +1,4 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skilkis&theme=dark&hide_border=true&bg_color=22272E&layout=compact)](https://wakatime.com/@skilkis)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skilkis&theme=dark&bg_color=00000000&layout=compact&border_color=444C56)](https://wakatime.com/@skilkis)
 
 <!--
 **skilkis/skilkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
