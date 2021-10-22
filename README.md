@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skilkis&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/skilkis)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skilkis&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@skilkis)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skilkis&theme=dracula&layout=compact&hide_border=true)](https://wakatime.com/@skilkis) -->
 
 <!--
 **skilkis/skilkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
